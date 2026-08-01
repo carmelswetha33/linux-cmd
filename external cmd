@@ -1,0 +1,9 @@
+/bin
+/usr/bin
+/usr/sbin
+mkdir
+ls
+cp
+mv
+cat
+grep
