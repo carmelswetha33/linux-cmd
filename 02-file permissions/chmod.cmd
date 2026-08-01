@@ -1,6 +1,6 @@
 chmod --changemode
 --- Permission Types ---
-chmod +x --executable persimssion
+chmod +x --executable permission
 chmod +r --read only permission
 chmod +w --write only permission
 ---denied permission---
