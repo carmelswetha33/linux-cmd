@@ -1,4 +1,5 @@
 vim
+!vim --to edit previous file 
 nano 
 
 --- for permission access---
