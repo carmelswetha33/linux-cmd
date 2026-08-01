@@ -1,5 +1,5 @@
 # Basic Commands
-    This folder contains linux basic commands and screenshots
+    This folder contains linux basic commands ,explanation and screenshots
 # Topics 
     buid-in cmd
     external cmd
